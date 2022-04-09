@@ -17,8 +17,8 @@
 ### Connect with me:
 
 
-- [facebook]:https://www.facebook.com/BomBummmm/ 🤓💻
-- [instagram]:https://www.facebook.com/BomBummmm/ 🤓💻
-- [email]:tranquandev@gmail.com 🤓💻
+- [facebook]: https://www.facebook.com/BomBummmm/ 🤓💻
+- [instagram]: https://www.instagram.com/tranquan2k/🤓💻
+- [email]: tranquandev@gmail.com 🤓💻
 
 
