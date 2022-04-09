@@ -18,6 +18,7 @@
 
 
 - [facebook]:https://www.facebook.com/BomBummmm/ 🤓💻
-
+- [instagram]:https://www.facebook.com/BomBummmm/ 🤓💻
+- [email]:tranquandev@gmail.com 🤓💻
 
 
