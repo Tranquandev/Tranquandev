@@ -1,6 +1,5 @@
 ### Hi there, I’m Tran Minh Quan 👋
 ## I’m a developer, love website !
-- 🔭 I am working as freelance
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other
 - 🥅 2022 Goals: Study and contribute to Opensource projects
@@ -18,7 +17,6 @@
 
 
 - [facebook]: https://www.facebook.com/BomBummmm/ 🤓💻
-- [instagram]: https://www.instagram.com/tranquan2k/ 🤓💻
 - [email]: tranquandev@gmail.com 🤓💻
 
 
