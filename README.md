@@ -16,7 +16,7 @@
 ### Connect with me:
 
 
-- [facebook]: https://www.facebook.com/BomBummmm/ 🤓💻
+- [facebook]: https://www.facebook.com/mindev1701 🤓💻
 - [email]: tranquandev@gmail.com 🤓💻
 
 
